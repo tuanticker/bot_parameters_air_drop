@@ -1,1 +1,1 @@
-# bot_parameters_air_drop
+#PixlTap 12/06/2024 {"8074e9c5-f6c2-4012-bfa2-bcc98ceb5175":0,"571523ae-872d-49f0-aa71-53d4a41cd810":1,"7c3a95c6-75a3-4c62-a20e-896a21132060":2,"f097634a-c8e8-4de9-b707-575d20c5fd88":3}
